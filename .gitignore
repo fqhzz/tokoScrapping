@@ -1,0 +1,6 @@
+node_modules/*
+*.txt
+log*
+package-lock.json
+clear_cache*
+README.md
