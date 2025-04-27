@@ -1,6 +1,6 @@
 # tokoScrapping
 
-run run.sh
-`./run.sh`
+run install.sh
+`./install.sh`
 
 you can adjust the scheduler in crontab afterwards
